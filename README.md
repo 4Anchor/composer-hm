@@ -1,10 +1,10 @@
 # Install Composer swiftmailer
 
-##Install
+## Install
 ```
 composer require swiftmailer/swiftmailer
 ```
-##Update
+## Update
 ```
 composer update swiftmailer/swiftmailer
 ```
